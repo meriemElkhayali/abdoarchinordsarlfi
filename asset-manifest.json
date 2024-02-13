@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/meriemElkhayali/abdoarchinordsalfi/static/css/main.10539e44.css",
+    "main.js": "/meriemElkhayali/abdoarchinordsalfi/static/js/main.fd5710b3.js",
+    "static/js/592.48171c22.chunk.js": "/meriemElkhayali/abdoarchinordsalfi/static/js/592.48171c22.chunk.js",
+    "index.html": "/meriemElkhayali/abdoarchinordsalfi/index.html",
+    "static/media/logo.svg": "/meriemElkhayali/abdoarchinordsalfi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/meriemElkhayali/abdoarchinordsalfi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/meriemElkhayali/abdoarchinordsalfi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/meriemElkhayali/abdoarchinordsalfi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/meriemElkhayali/abdoarchinordsalfi/static/media/slick.295183786cd8a1389865.woff",
+    "main.10539e44.css.map": "/meriemElkhayali/abdoarchinordsalfi/static/css/main.10539e44.css.map",
+    "main.fd5710b3.js.map": "/meriemElkhayali/abdoarchinordsalfi/static/js/main.fd5710b3.js.map",
+    "592.48171c22.chunk.js.map": "/meriemElkhayali/abdoarchinordsalfi/static/js/592.48171c22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10539e44.css",
+    "static/js/main.fd5710b3.js"
+  ]
+}
