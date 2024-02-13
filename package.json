@@ -2,7 +2,7 @@
   "name": "abdoarchinordsalfi",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/meriemElkhayali/abdoarchinordsalfi",
+  "homepage":"https://github.com/meriemElkhayali/abdoarchinordsarlfi",
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
     "@testing-library/jest-dom": "^5.17.0",
